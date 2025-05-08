@@ -11,6 +11,7 @@ A lightweight, fast-starting template using **React**, **Sass**, and **Vite** â€
    - Name your new repo
    - Clone it:
 
+
    ```bash
    git clone https://github.com/your-username/your-new-project
    cd your-new-project
