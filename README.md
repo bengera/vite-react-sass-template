@@ -10,7 +10,7 @@ A lightweight, fast-starting template using **React**, **Sass**, and **Vite** â€
    - Click the green **"Use this template"** button on the repo page
    - Name your new repo
    - Clone it:
-
+&nbsp;
 
    ```bash
    git clone https://github.com/your-username/your-new-project
